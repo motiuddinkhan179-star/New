@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "Generate beautiful, responsive website templates instantly using the power of Gemini. Describe your vision, and our AI will build the HTML and Tailwind CSS for you.",
+  "requestFramePermissions": []
+}
